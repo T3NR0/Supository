@@ -6,3 +6,4 @@ git commit	||	pour commiter sa maman
 	-a		commit tous les fichiers addés dans le passé
 git log		||	pour connaitre l'histore de la vie
 git checkout	||	pour se positionner sur un SHA (un gros shashoo)
+	master		pour retourner dans la vraie vie
