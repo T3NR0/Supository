@@ -1,9 +1,12 @@
-git init	||	pour commencer la vie
-git status	||	pour connaitre l'état du dossier
-git add		||	pour ajouter un fichier
-git commit	||	pour commiter sa maman
-	-m		"y ajouter un message"
-	-a		commit tous les fichiers addés dans le passé
-git log		||	pour connaitre l'histore de la vie
-git checkout	||	pour se positionner sur un SHA (un gros shashoo)
-	master		pour retourner dans la vraie vie
+init			||	pour commencer la vie
+status			||	pour connaitre l'état du dossier
+add X			||	pour ajouter un fichier
+commit			||	pour commiter sa maman
+	-m			"y ajouter un message"
+	-a			commit tous les fichiers addés dans le passé
+log			||	pour connaitre l'histore de la vie
+checkout X		||	pour se positionner sur un SHA (un gros shashoo)
+	master			pour retourner dans la vraie vie
+remote add origin X	||	set le remote remotely
+push origin master	||	pour push sur le remote, on peut mettre d'autres destinations
+clone X			||	pour choper le taf des autres
