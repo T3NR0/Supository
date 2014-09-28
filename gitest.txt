@@ -2,3 +2,4 @@ git init	||	pour commencer la vie
 git status	||	pour connaitre l'état du dossier
 git add		||	pour ajouter un fichier
 git commit	||	pour commiter sa maman
+			-m "y ajouter un message"
