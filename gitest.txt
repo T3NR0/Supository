@@ -3,3 +3,5 @@ git status	||	pour connaitre l'état du dossier
 git add		||	pour ajouter un fichier
 git commit	||	pour commiter sa maman
 			-m "y ajouter un message"
+			-a  commit tous les fichiers addés dans le passé
+git log		||	pour connaitre l'histore de la vie
