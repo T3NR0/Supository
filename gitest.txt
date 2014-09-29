@@ -10,4 +10,4 @@ checkout X		||	pour se positionner sur un SHA (un gros shashoo)
 remote add origin X	||	set le remote remotely
 push origin master	||	pour push sur le remote, on peut mettre d'autres destinations
 clone X			||	pour choper le taf des autres
-pull origin		||	pour chopper le dernier taff du moment
+pull origin master	||	pour chopper le dernier taff du moment
