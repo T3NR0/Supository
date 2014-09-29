@@ -15,3 +15,10 @@ branch X		||	créer une branche de l'arbre de la vie
 branch			||	voir sur quelle branche on se tient
 checkout -b X		||	créer une branche et s'asseaoir dessus
 merge X			||	fusionne X avec la branche courrante
+blame X			||	pour blamer sa race
+show X			||	pour voir la différence d'un commit (dat command tho)
+stash			||	stocke l'avancée dans un petit coin caché
+stash pop		||	charge l'état du petit coin caché
+
+Ecrire le nom d'un fichier dans le .gitignore pour l'ignorer des commits
+Faire des pull request sur un repository forké pour améliorer l'univers.
